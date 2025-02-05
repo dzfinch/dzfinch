@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub!
 
-<!--
-**dzfinch/dzfinch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm **Dryver Finch**, a geographer specializing in **remote sensing, UAV-based imaging, and geospatial analysis** for land and resource monitoring, conservation, and ecological restoration. My research integrates **satellite and UAV-based multispectral/hyperspectral imaging** with **machine learning techniques** to support sustainable management of natural resources and hydrological systems.
 
-Here are some ideas to get you started:
+I'm currently pursuing an **M.S. in Geography** at **The University of Tennessee, Knoxville**, where I also work as a **GIS Lab Assistant and Graduate Teaching Assistant**. I have previous experience as a **research intern at Oak Ridge National Laboratory** and have worked on projects involving **AI-driven object detection, UAV-based LiDAR, and critical remote sensing studies**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Interests
+- **Hydrological & Riparian Remote Sensing**: UAV-based LiDAR and multispectral imaging for ecosystem monitoring.
+- **Geospatial AI & Machine Learning**: Developing AI/ML algorithms for remote sensing applications.
+- **Critical Data Studies**: Exploring accessibility, utility, and privacy in geospatial technologies.
+- **Spatial Epidemiology**: Investigating the spatial dynamics of **Bacillus anthracis** in West Texas.
+
+## 📫 Connect with Me
+- LinkedIn: [linkedin.com/in/dryverfinch](https://www.linkedin.com/in/dryverfinch)
+- Email: dryzfinc@vols.utk.edu  
+
+🚀 **Always open to collaborations on geospatial AI, remote sensing, and critical data studies!**
