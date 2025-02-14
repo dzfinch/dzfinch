@@ -3,7 +3,7 @@
 ## About Me
 I'm **Dryver Finch**, a geographer specializing in **remote sensing, UAV-based imaging, and geospatial analysis** for land and resource monitoring, conservation, and ecological restoration. My research integrates **satellite and UAV-based multispectral/hyperspectral imaging** with **machine learning techniques** to support sustainable management of natural resources and hydrological systems.
 
-I'm currently pursuing an **M.S. in Geography** at **The University of Tennessee, Knoxville**, where I also work as a **GIS Lab Assistant and Graduate Teaching Assistant**. I have previous experience as a **research intern at Oak Ridge National Laboratory** and have worked on projects involving **AI-driven object detection, UAV-based LiDAR, and critical remote sensing studies**.
+I'm currently pursuing an **M.S. in Geography** at **The University of Tennessee, Knoxville**, where I also work as a **GIS Lab Assistant and Graduate Teaching Assistant**. I have previous experience as a **research intern at Oak Ridge National Laboratory** and have worked on projects involving **AI-driven object detection, UAV-based LiDAR/multispectral, and ML in remote sensing**.
 
 ## 🔬 Research Interests
 - **Hydrological & Riparian Remote Sensing**: UAV-based LiDAR and multispectral imaging for ecosystem monitoring.
