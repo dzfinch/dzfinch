@@ -1,18 +1,53 @@
-# 👋 Welcome to My GitHub!
+# 👋 Hi, I’m Dryver Finch  
 
-## About Me
-I'm **Dryver Finch**, a geographer specializing in **remote sensing, UAV-based imaging, and geospatial analysis** for land and resource monitoring, conservation, and ecological restoration. My research integrates **satellite and UAV-based multispectral/hyperspectral imaging** with **machine learning techniques** to support sustainable management of natural resources and hydrological systems.
+🎓 **M.S. Geography | University of Tennessee, Knoxville**  
+🛰️ **Remote Sensing | UAVs | Machine Learning | Geospatial Software Development**  
+✈️ **FAA Part 107 Certified Remote Pilot**  
 
-I'm currently pursuing an **M.S. in Geography** at **The University of Tennessee, Knoxville**, where I also work as a **GIS Lab Assistant and Graduate Teaching Assistant**. I have previous experience as a **research intern at Oak Ridge National Laboratory** and have worked on projects involving **AI-driven object detection, UAV-based LiDAR/multispectral, and ML in remote sensing**.
+---
 
-## 🔬 Research Interests
-- **Hydrological & Riparian Remote Sensing**: UAV-based LiDAR and multispectral imaging for ecosystem monitoring.
-- **Geospatial AI & Machine Learning**: Developing AI/ML algorithms for remote sensing applications.
-- **Critical Data Studies**: Exploring accessibility, utility, and privacy in geospatial technologies.
-- **Spatial Epidemiology**: Investigating the spatial dynamics of **Bacillus anthracis** in West Texas.
+## 🌍 About Me  
 
-## 📫 Connect with Me
-- LinkedIn: [linkedin.com/in/dryverfinch](https://www.linkedin.com/in/dryverfinch)
-- Email: dryzfinc@vols.utk.edu  
+I’m a geographer and remote sensing researcher passionate about automating geospatial workflows and improving how we monitor Earth’s dynamic landscapes. My work integrates satellite and UAV data, high-performance computing, and open-source software to solve applied environmental problems.
 
-🚀 **Always open to collaborations on geospatial AI, remote sensing, and critical data studies!**
+At UTK, I serve as a **Teaching Assistant** for:  
+- **GEOG 413: Remote Sensing of the Environment** – image classification, spectral indices, and change detection  
+- **GEOG 314: Introduction to Uncrewed Aerial Systems** – flight safety, FAA regulations, and ASPRS-standard mapping workflows  
+
+---
+
+## 🧶 Plaknit  
+
+**Plaknit** (Planet + Knit) is an open-source framework for stitching Planet strips, UAV tiles, and other raster sources into analysis-ready mosaics.  
+
+- Designed for both local and HPC environments  
+- In-memory masking and compositing using OTB + GDAL  
+- Modular CLI for spectral index computation and normalization  
+- Lightweight alternative to proprietary pipelines  
+
+👉 [View the Plaknit Repository »](https://github.com/dzfinch/plaknit)  
+
+---
+
+## 🛰️ Tech Stack  
+
+**Languages & Tools**  
+`Python` • `GDAL` • `OTB` • `QGIS` • `GRASS GIS` • `Google Earth Engine` • `scikit-learn` • `XGBoost` • `Pix4D` • `Agisoft Metashape` • `Singularity / HPC`  
+
+**Core Skills**  
+- Satellite & UAV Image Processing  
+- Spectral & Texture Analysis  
+- Land-Cover Classification  
+- Automated Remote Sensing Workflows  
+- Geospatial Software Development  
+- UAV Mission Planning & Mapping Standards  
+
+---
+
+## 🚀 Current Goals  
+
+- 🧩 Expand **Plaknit** into a full workflow engine for Planet and UAV data fusion  
+- 🧭 Develop open, ASPRS-aligned UAV mapping curricula for remote sensing education  
+- 🧠 Continue building machine learning models for environmental change detection  
+
+---
