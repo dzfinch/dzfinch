@@ -42,7 +42,7 @@ At UTK, I serve as a **Teaching Assistant** for:
 
 ## 🚀 Current Goals  
 
-- 🧩 Expand **Plaknit** into a full workflow engine for Planet and UAV data fusion  
+- 🧩 Expand **Plaknit** into a full workflow engine for PlanetScope Big Data analysis  
 - 🧭 Develop open, ASPRS-aligned UAV mapping curricula for remote sensing education  
 - 🧠 Continue building machine learning models for environmental change detection  
 
