@@ -4,7 +4,6 @@
 🛰️ **Remote Sensing | UAVs | Machine Learning | Geospatial Software Development**  
 ✈️ **FAA Part 107 Certified Remote Pilot**  
 
----
 
 ## 🌍 About Me  
 
@@ -14,11 +13,10 @@ At UTK, I serve as a **Teaching Assistant** for:
 - **GEOG 413: Remote Sensing of the Environment** – image classification, spectral indices, and change detection  
 - **GEOG 314: Introduction to Uncrewed Aerial Systems** – flight safety, FAA regulations, and ASPRS-standard mapping workflows  
 
----
 
 ## 🧶 Plaknit  
 
-**Plaknit** (Planet + Knit) is an open-source framework for stitching Planet strips, UAV tiles, and other raster sources into analysis-ready mosaics.  
+**Plaknit** (Planet + Knit) is an open-source framework for stitching PlanetScope strips into analysis-ready mosaics.  
 
 - Designed for both local and HPC environments  
 - In-memory masking and compositing using OTB + GDAL  
@@ -27,12 +25,11 @@ At UTK, I serve as a **Teaching Assistant** for:
 
 👉 [View the Plaknit Repository »](https://github.com/dzfinch/plaknit)  
 
----
 
 ## 🛰️ Tech Stack  
 
 **Languages & Tools**  
-`Python` • `GDAL` • `OTB` • `QGIS` • `GRASS GIS` • `Google Earth Engine` • `scikit-learn` • `XGBoost` • `Pix4D` • `Agisoft Metashape` • `Singularity / HPC`  
+`Python` • `GDAL` • `OTB` • `QGIS` • `GRASS GIS` • `Google Earth Engine` • `scikit-learn` • `XGBoost` • `Pix4D` • `Singularity / HPC`  
 
 **Core Skills**  
 - Satellite & UAV Image Processing  
@@ -42,7 +39,6 @@ At UTK, I serve as a **Teaching Assistant** for:
 - Geospatial Software Development  
 - UAV Mission Planning & Mapping Standards  
 
----
 
 ## 🚀 Current Goals  
 
@@ -50,4 +46,3 @@ At UTK, I serve as a **Teaching Assistant** for:
 - 🧭 Develop open, ASPRS-aligned UAV mapping curricula for remote sensing education  
 - 🧠 Continue building machine learning models for environmental change detection  
 
----
