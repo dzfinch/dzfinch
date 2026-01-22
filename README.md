@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Dryver Finch  
 
-🎓 **M.S. Geography | University of Tennessee, Knoxville**  
+🎓 **M.S. Candidate, Geography | University of Tennessee, Knoxville**  
 🛰️ **Remote Sensing | UAVs | Machine Learning | Geospatial Software Development**  
 ✈️ **FAA Part 107 Certified Remote Pilot**  
 
@@ -9,7 +9,7 @@
 
 I’m a geographer and remote sensing researcher passionate about automating geospatial workflows and improving how we monitor Earth’s dynamic landscapes. My work integrates satellite and UAV data, high-performance computing, and open-source software to solve applied environmental problems.
 
-At UTK, I serve as a **Teaching Assistant** for:  
+At UTK, I have served as a **Teaching Assistant** for:  
 - **GEOG 413: Remote Sensing of the Environment** – image classification, spectral indices, and change detection  
 - **GEOG 314: Introduction to Uncrewed Aerial Systems** – flight safety, FAA regulations, and ASPRS-standard mapping workflows  
 
@@ -36,7 +36,8 @@ At UTK, I serve as a **Teaching Assistant** for:
 - Spectral & Texture Analysis  
 - Land-Cover Classification  
 - Automated Remote Sensing Workflows  
-- Geospatial Software Development  
+- Geospatial Software Development
+- Computer Vision & Deep Learning Techniques
 - UAV Mission Planning & Mapping Standards  
 
 
