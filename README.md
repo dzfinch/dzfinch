@@ -20,7 +20,7 @@ At UTK, I have served as a **Teaching Assistant** for:
 
 - Designed for both local and HPC environments  
 - In-memory masking and compositing using OTB + GDAL  
-- Modular CLI for spectral index computation and normalization  
+- Modular CLI for classification training and prediction
 - Lightweight alternative to proprietary pipelines  
 
 👉 [View the Plaknit Repository »](https://github.com/dzfinch/plaknit)  
