@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Dryver Finch  
 
-🎓 **B.S. in Geographic Information Science and Technology; M.S. in Geography | University of Tennessee, Knoxville**  
+🎓 **M.S. in Geography; B.S. in Geographic Information Science and Technology | University of Tennessee, Knoxville**  
 🛰️ **Remote Sensing | UAVs | Machine Learning | Geospatial Software Development**  
 ✈️ **FAA Part 107 Certified Remote Pilot**  
 
